@@ -1,5 +1,6 @@
 # Este Modelo lo que hace es intercatuar con las variables usadas 
 #para la ejecucion del programa y la interfaz
+# comentario
 import numpy as np # se usa la libreria de numpy 
 class Biosenal(object): # Se crea class Biosenal 
     def __init__(self,data=None):
