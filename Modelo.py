@@ -20,7 +20,7 @@ class Biosenal(object): # Se crea class Biosenal
             return None
         #cojo los valores que necesito en la biosenal
         return self.__data[:,x_min:x_max]
-#comentar algo 
+
     def escalar_senal(self,x_min,x_max,escala):
         copia_datos=self.__data[:,x_min:x_max].copy()
         return copia_datos*escala
