@@ -5,6 +5,7 @@ Created on Sun Mar 22 22:50:52 2020
 @author: Sara Cadavid - Cristina Pareja 
 
 """
+#algo aca
 # Se importa libreria necesaria para el funcionamiento del programa
 from Modelo import Biosenal # De modelo importa la class Biosenal 
 from interfaz import InterfazGrafico
